@@ -10,3 +10,17 @@ img {
   width: 431px;
   height: 450px;
 }
+
+.nav {
+  text-align: center;
+  margin-left: 180px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blue;
+}
